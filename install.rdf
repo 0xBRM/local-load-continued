@@ -2,7 +2,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>localload@powrsurg.com</em:id>
-		<em:version>1.0.7.1-signed</em:version>
+		<em:version>1.1.0</em:version>
 		<em:type>2</em:type>
 
 		<!-- Firefox -->
@@ -16,7 +16,7 @@
 
 		<em:name>Local Load</em:name>
 		<em:description>Load common JavaScript libraries from local resources</em:description>
-		<em:creator>Brian LePore</em:creator>
+		<em:creator>local-load development team</em:creator>
 		<em:homepageURL>http://www.getlocalload.com/</em:homepageURL>
 		<em:iconURL>chrome://localload/content/libraries/icon.png</em:iconURL>
 
