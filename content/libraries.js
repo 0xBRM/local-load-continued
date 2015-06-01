@@ -1,0 +1,17 @@
+const LL_PATH = 'resource://localload/';
+const EXT_CORE_PATH = LL_PATH + 'ext-core/';
+const EXT_CORE_VERSIONS = ['3.0', '3.1.0'];
+const JQUERY_PATH = LL_PATH + 'jquery/';
+const JQUERY_VERSIONS = ['1.2.3', '1.2.6', '1.3.0', '1.3.1', '1.3.2', '1.4.0', '1.4.1', '1.4.2', '1.4.3', '1.4.4', '1.5.0', '1.5.1', '1.5.2', '1.6.0', '1.6.1', '1.6.2', '1.6.3', '1.6.4', '1.7.0', '1.7.1', '1.7.2', '1.8.0', '1.8.1', '1.8.2', '1.8.3'];
+const JQUERYUI_PATH = LL_PATH + 'jqueryui/';
+const JQUERYUI_VERSIONS = ['1.5.2', '1.5.3', '1.6', '1.7.0', '1.7.1', '1.7.2', '1.7.3', '1.8.0', '1.8.1', '1.8.2', '1.8.4', '1.8.5', '1.8.6', '1.8.7', '1.8.8', '1.8.9', '1.8.10', '1.8.11', '1.8.12', '1.8.13', '1.8.14', '1.8.15', '1.8.16', '1.8.17', '1.8.18', '1.8.19', '1.8.20', '1.8.21', '1.8.22', '1.8.23', '1.8.24', '1.9.0', '1.9.1', '1.9.2'];
+const MOOTOOLS_PATH = LL_PATH + 'mootools/';
+const MOOTOOLS_VERSIONS = ['1.1.1', '1.1.2', '1.2.1', '1.2.2', '1.2.3', '1.2.4', '1.2.5', '1.4.0', '1.4.1', '1.4.2', '1.4.3', '1.4.4', '1.4.5'];
+const PROTOTYPE_PATH = LL_PATH + 'prototype/';
+const PROTOTYPE_VERSIONS = ['1.6.0.2', '1.6.0.3', '1.6.1.0', '1.7.0.0', '1.7.1.0'];
+const SCRIPTACULOUS_PATH = LL_PATH + 'scriptaculous/';
+const SCRIPTACULOUS_VERSIONS = ['1.8.1', '1.8.2', '1.8.3', '1.9.0'];
+const SWFOBJECT_PATH = LL_PATH + 'swfobject/';
+const SWFOBJECT_VERSIONS = ['2.1', '2.2'];
+const YUI_PATH = LL_PATH + 'yui/';
+const YUI_VERSIONS = ['2.6.0', '2.7.0', '2.8.0r4', '2.8.1', '2.8.2', '3.3.0'];

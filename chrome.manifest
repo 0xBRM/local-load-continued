@@ -1,0 +1,5 @@
+content localload content/
+
+component {1e2301c3-2891-44c6-89ac-e3a3de499ba7} content/load.js
+contract @getlocalload.com/localload-service;1 {1e2301c3-2891-44c6-89ac-e3a3de499ba7}
+category content-policy LocalLoad @getlocalload.com/localload-service;1
