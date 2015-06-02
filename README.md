@@ -34,11 +34,14 @@ Methodology:
 
 
 ## TODO (for now; more will come):
-* [Merge some jquery/jquery-ui js files](https://github.com/dfsq/compressJS.sh);
-* Minify ALL js frameworks;
+* [Merge some jquery/jquery-ui/webfontloader js files](https://github.com/dfsq/compressJS.sh);
+* Minify ALL js frameworks (10%);
 * Probably more of the above;
 * Redesign logo;
 * Run benchmarks;
 * Add toggle to disable it on a per hostname basis;
 * Create simple UI to achieve the above;
 * Finish writing the README file.
+
+#PRO TIP 
+Do not install this extension until I say you can.
