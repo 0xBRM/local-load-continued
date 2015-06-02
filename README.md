@@ -14,6 +14,9 @@ local-load, unlike uBlock's now non-existent local-mirroring feature (a sad day 
 * Loading pages slightly faster, a direct consequence of saving bandwidth.
 
 #### Compatibility
+###### Other addons:
+If the JavaScript framework comes from a domain that uMatrix/NoScript/Policeman would block, then the request would not even be made and local load would not replace the script. If the domain is allowed by any of the above addons, then local load will work as intended.
+###### Firefox:
 Supports Firefox/Firefox-based browsers [4.* - current].
 
 #### Benchmarks
@@ -34,4 +37,5 @@ Methodology:
 * [Merge some jquery/jquery-ui js files](https://github.com/dfsq/compressJS.sh);
 * Probably more of the above;
 * Redesign logo;
+* Run benchmarks
 * Finish writing the README file.
