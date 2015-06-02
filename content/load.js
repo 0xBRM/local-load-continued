@@ -1,10 +1,7 @@
-// Localload v1.0.7
-//Copyright 2010 Brian LePore
-
-const EXTENSION_ID = "{powrsurg@gmail.com}";
-const EXTENSION_NAME = "LocalLoad";
-const CHROME_NAME = "localload";
-const VERSION = "1.0.6";
+const EXTENSION_ID = "{}";
+const EXTENSION_NAME = "local-load";
+const CHROME_NAME = "local-load";
+const VERSION = "1.1.0";
 const SERVICE_NAME = EXTENSION_NAME + " Service";
 const SERVICE_CTRID = "@getlocalload.com/localload-service;1";
 const SERVICE_ID ="{1e2301c3-2891-44c6-89ac-e3a3de499ba7}";
@@ -120,3 +117,5 @@ if (XPCOMUtils.generateNSGetFactory) {
 } else {
 	var NSGetModule = XPCOMUtils.generateNSGetModule([LocalLoad]);
 }
+
+//Copyright 2010 Brian LePore
