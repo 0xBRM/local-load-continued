@@ -14,7 +14,7 @@
 			</Description>
 		</em:targetApplication>
 
-		<em:name>local-load-continued</em:name>
+		<em:name>local-load</em:name>
 		<em:description>Load common JavaScript libraries from local resources</em:description>
 		<em:creator>local-load development team</em:creator>
 		<em:homepageURL>https://github.com/CrisBRM/local-load-continued/</em:homepageURL>
