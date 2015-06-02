@@ -35,6 +35,7 @@ Methodology:
 
 ## TODO (for now; more will come):
 * [Merge some jquery/jquery-ui js files](https://github.com/dfsq/compressJS.sh);
+* Minify ALL js frameworks;
 * Probably more of the above;
 * Redesign logo;
 * Run benchmarks;
