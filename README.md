@@ -37,5 +37,7 @@ Methodology:
 * [Merge some jquery/jquery-ui js files](https://github.com/dfsq/compressJS.sh);
 * Probably more of the above;
 * Redesign logo;
-* Run benchmarks
+* Run benchmarks;
+* Add toggle to disable it on a per hostname basis;
+* Create simple UI to achieve the above;
 * Finish writing the README file.
