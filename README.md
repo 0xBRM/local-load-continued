@@ -20,7 +20,7 @@ Supports Firefox/Firefox-based browsers [4 - current].
 
 
 
-TODO (for now; more will come):
+## TODO (for now; more will come):
 * Merge some jquery js files;
 * Merge some jqueryui js files;
 * Probably more of the above;
