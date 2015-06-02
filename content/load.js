@@ -1,6 +1,6 @@
 const EXTENSION_ID = "{}";
-const EXTENSION_NAME = "local-load";
-const CHROME_NAME = "local-load";
+const EXTENSION_NAME = "local-load-continued";
+const CHROME_NAME = "local-load-continued";
 const VERSION = "1.1.0";
 const SERVICE_NAME = EXTENSION_NAME + " Service";
 const SERVICE_CTRID = "@getlocalload.com/localload-service;1";
