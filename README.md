@@ -1,4 +1,5 @@
-<h1 align="center">local-load-continued</h1>
+<h1 align="center">local-load</h1>
+<h1 align="center">(continued)</h1>
 
 Load popular JavaScript libraries from a local resource, as opposed to over the Web, using valid HTML5 compliant custom data attributes. Currently supports all JavaScript files listed on the Google AJAX Library API.
 
