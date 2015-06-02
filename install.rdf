@@ -14,10 +14,10 @@
 			</Description>
 		</em:targetApplication>
 
-		<em:name>Local Load</em:name>
+		<em:name>local-load</em:name>
 		<em:description>Load common JavaScript libraries from local resources</em:description>
 		<em:creator>local-load development team</em:creator>
-		<em:homepageURL>http://www.getlocalload.com/</em:homepageURL>
+		<em:homepageURL>https://github.com/CrisBRM/local-load/</em:homepageURL>
 		<em:iconURL>chrome://localload/content/libraries/icon.png</em:iconURL>
 
 	</Description>
