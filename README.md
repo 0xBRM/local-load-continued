@@ -8,11 +8,21 @@ Load popular JavaScript libraries from a local resource, as opposed to over the 
 * [License](#license)
 
 #### Overview
+local-load, unlike uBlock's now non-existent local-mirroring feature (a sad day for us all), doesn't cache js libraries upon fetching them for later use; rather, it comes bundled with a myriad of them, which are constantly updated by the maintainer (myself, for the time being), and loaded from 'resource://localload/', thereby:
+* Reducing your privacy exposure (you won't connect to THEIR servers);
+* Saving bandwidth by intercepting calls to these libraries and loading them from your computer, rather than fetching them over the web;
+* Loading pages slightly faster, a direct consequence of saving bandwidth.
 
 #### Compatibility
-Supports Firefox/Firefox-based browsers [4 - current].
+Supports Firefox/Firefox-based browsers [4.* - current].
 
 #### Benchmarks
+[Coming soon](https://github.com/gorhill/uBlock/wiki/Reference-benchmark)
+
+* local load:
+* local load + [uBlock](https://github.com/gorhill/uBlock):
+
+Methodology:
 
 #### License
 [GPL v2](https://github.com/CrisBRM/local-load/blob/master/README.md)
@@ -21,8 +31,7 @@ Supports Firefox/Firefox-based browsers [4 - current].
 
 
 ## TODO (for now; more will come):
-* Merge some jquery js files;
-* Merge some jqueryui js files;
+* [Merge some jquery/jquery-ui js files](https://github.com/dfsq/compressJS.sh);
 * Probably more of the above;
 * Redesign logo;
 * Finish writing the README file.
