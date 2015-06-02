@@ -1,3 +1,5 @@
+Future versions will be released on https://github.com/CrisBRM/local-load/releases with a complete changelog.
+
 1.0.7 -- 12/26/12
 -- Added jQuery 1.7.2, 1.8.0, 1.8.1, 1.8.2, 1.8.3
 -- Added jQuery UI 1.8.17, 1.8.18, 1.8.19, 1.8.20, 1.8.21, 1.8.22, 1.8.23, 1.8.24, 1.9.0, 1.9.1, 1.9.2
