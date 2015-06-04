@@ -45,4 +45,4 @@ Methodology:
 * Finish writing the README file.
 
 #PRO TIP 
-Do not install this extension until I say you can.
+Do not install this extension until I say you can (breaks google's ReCaptcha, for instance, and it will keep breaking it until I update all the libraries, which will happen once I'm done merging and minifying them).
