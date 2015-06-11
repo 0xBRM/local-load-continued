@@ -1,3 +1,5 @@
+Note: Busy this week, will continue development next week (15-06).
+
 <h1 align="center">local-load</h1>
 <h1 align="center">(continued)</h1>
 
