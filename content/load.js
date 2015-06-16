@@ -63,7 +63,7 @@ LocalLoad.prototype = {
 					replaced = this.replacement(node, YUI_PATH, YUI_VERSIONS, 'yuiloader.js');
 					break;
 				case "webfontloader":
-					replaced =this.replacement (node, WEBFONTLOADER_PATH, WEBFONTLOADER_VERSIONS, 'webfontloader.js');
+					replaced = this.replacement(node, WEBFONTLOADER_PATH, WEBFONTLOADER_VERSIONS, 'webfontloader.js');
 					break;
 			}
 		}
