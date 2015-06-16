@@ -1,4 +1,5 @@
 Note: Busy this week, will continue development next week (15-06).
+Open an issue if you'd like me to include other libraries. Do take into account I will run a web crawler to determine whether or not the added bloat (in terms of sheer size) will make a measurable difference in terms of privacy exposition).
 
 <h1 align="center">local-load</h1>
 <h1 align="center">(continued)</h1>
