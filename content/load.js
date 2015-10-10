@@ -57,7 +57,7 @@ LocalLoad.prototype = {
 					replaced = this.replacement(node, SCRIPTACULOUS_PATH, SCRIPTACULOUS_VERSIONS, 'scriptaculous.js');
 					break;
 				case "swfobject":
-					replaced = this.replacement(node, SWFOBJECT_PATH, SWFOBJEC_VERSIONS, 'swfobject_src.js');
+					replaced = this.replacement(node, SWFOBJECT_PATH, SWFOBJECT_VERSIONS, 'swfobject_src.js');
 					break;
 				case "yui":
 					replaced = this.replacement(node, YUI_PATH, YUI_VERSIONS, 'yuiloader.js');
